@@ -82,7 +82,7 @@ The prompt specifies:
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/qzense.git
+git clone https://github.com/RakshaPA/qzense.git
 cd qzense
 npm install
 ```
